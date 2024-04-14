@@ -2,6 +2,9 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+![Screenshot (799)](https://github.com/ashish123256/Weather-App-Nextjs/assets/110420433/c15665d9-8f5f-46d8-a7fc-3d41ab6c5e71)
+
+
 First, run the development server:
 
 ```bash
